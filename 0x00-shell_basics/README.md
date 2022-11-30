@@ -1,1 +1,1 @@
-script to print pathname of the current file
+Display the contents list of your current directory
