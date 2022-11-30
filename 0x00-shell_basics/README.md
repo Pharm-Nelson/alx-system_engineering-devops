@@ -1,1 +1,1 @@
-include hidden files to long list
+current directory contents
