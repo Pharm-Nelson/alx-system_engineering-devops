@@ -1,1 +1,1 @@
-script that prints current user name
+script that prints all group
