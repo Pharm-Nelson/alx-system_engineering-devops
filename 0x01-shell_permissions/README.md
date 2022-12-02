@@ -1,1 +1,1 @@
-script for new owner
+script that create an empty file
