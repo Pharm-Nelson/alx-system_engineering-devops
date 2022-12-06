@@ -1,1 +1,1 @@
-path to success is massive
+script that counts number of directories
