@@ -1,1 +1,1 @@
-script that counts number of directories
+scripts that counts number of directories
