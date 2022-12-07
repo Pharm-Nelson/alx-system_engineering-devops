@@ -1,1 +1,1 @@
-scripts that print power
+love is anterior to life
