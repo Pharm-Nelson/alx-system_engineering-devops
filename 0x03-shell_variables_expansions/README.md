@@ -1,1 +1,1 @@
-love is anterior to life
+script that prints number
