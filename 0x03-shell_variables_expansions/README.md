@@ -1,1 +1,1 @@
-scripts that counts number of directories
+scripts that print power
